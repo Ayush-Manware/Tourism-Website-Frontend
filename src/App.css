@@ -85,7 +85,7 @@ nav a:hover {
 .register-Login {
   border: 1px solid rgb(255, 255, 255);
   height: 30em;
-  background: url('https://img.freepik.com/free-photo/travel-navigation-journey-vacation-trip-telephone-concept_53876-127696.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=ais') no-repeat;
+  background-color: greenyellow;
   background-size: cover;
   background-position: center;
 }

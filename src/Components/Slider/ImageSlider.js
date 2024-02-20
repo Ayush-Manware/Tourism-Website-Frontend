@@ -2,13 +2,13 @@ import React from 'react'
 import SimpleImageSlider from "react-simple-image-slider";
 
 const images = [
-    { url: "https://img.freepik.com/free-photo/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand_335224-1356.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=sph.jpg" },
-    { url: "https://img.freepik.com/free-photo/full-shot-travel-concept-with-landmarks_23-2149153258.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=sph.jpg" },
-    { url: "https://img.freepik.com/free-photo/nature-beauty-revealed-coastline-turquoise-waters-generative-ai_188544-12614.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=sph.jpg" },
-    { url: "https://img.freepik.com/free-photo/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand_335224-849.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=sph.jpg" },
-    { url: "https://img.freepik.com/free-photo/young-woman-hiker-taking-photo-with-smartphone-mountains-peak-winter_335224-427.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=sph.jpg" },
-    { url: "https://img.freepik.com/free-photo/landscape-railay-beach-sunrise-krabi-thailand_335224-1398.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=sph.jpg" },
-    { url: "https://img.freepik.com/free-photo/chair-table-dinning-beach-sea-with-blue-sky_74190-6094.jpg?size=626&ext=jpg&ga=GA1.1.390521900.1707301617&semt=sph.jpg" },
+    { url: "https://images.unsplash.com/photo-1672348687086-8b46c996341c?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fGluZGlhbiUyMHRvdXJpc218ZW58MHwwfDB8fHww" },
+    { url: "https://images.unsplash.com/photo-1706186799964-5c4549ca7c54?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fGluZGlhbiUyMHRvdXJpc218ZW58MHwwfDB8fHww" },
+    { url: "https://images.unsplash.com/photo-1705112306531-fa144a005bdf?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGluZGlhbiUyMHRvdXJpc218ZW58MHwwfDB8fHww" },
+    { url: "https://images.unsplash.com/photo-1705861145347-254fcb6685d9?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGluZGlhbiUyMHRvdXJpc218ZW58MHwwfDB8fHww" },
+    { url: "https://images.unsplash.com/photo-1693560192936-aaaeba716b13?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGluZGlhbiUyMHRvdXJpc218ZW58MHwwfDB8fHww" },
+    { url: "https://images.unsplash.com/photo-1651057279459-e8836f69c423?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fGluZGlhbiUyMHRvdXJpc218ZW58MHwwfDB8fHww" },
+    { url: "https://images.unsplash.com/photo-1651478881270-6c3a0fc883f4?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGluZGlhbiUyMHRvdXJpc218ZW58MHwwfDB8fHww" },
 ];
 
 export default function ImageSlider() {
